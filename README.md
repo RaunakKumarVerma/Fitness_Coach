@@ -1,16 +1,14 @@
 # bmi_calculater
 
 A new Flutter project.
+The App has 2 sections-
+1> Checking The BMI
+2> Online Real-Time Video conferencing
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The flow of the real time Video conferencing has neen shown in the vidoe below
+https://loom.com/share/d4ef17d219f345c99450a3a20d0d272e
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help regarding the project contact me on raunak.k.verma@gmail.com
